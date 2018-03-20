@@ -1,0 +1,16 @@
+missing module named resource - imported by posix, D:\fengru\keyboard\learning\calculator.py
+missing module named posix - imported by os, D:\fengru\keyboard\learning\calculator.py
+missing module named _dummy_threading - imported by dummy_threading, D:\fengru\keyboard\learning\calculator.py
+missing module named os2 - imported by os, D:\fengru\keyboard\learning\calculator.py
+missing module named _emx_link - imported by os, D:\fengru\keyboard\learning\calculator.py
+missing module named ce - imported by os, D:\fengru\keyboard\learning\calculator.py
+missing module named riscos - imported by os, D:\fengru\keyboard\learning\calculator.py
+missing module named riscospath - imported by os, D:\fengru\keyboard\learning\calculator.py
+missing module named riscosenviron - imported by os, D:\fengru\keyboard\learning\calculator.py
+missing module named org - imported by pickle, D:\fengru\keyboard\learning\calculator.py
+missing module named pwd - imported by posixpath, D:\fengru\keyboard\learning\calculator.py
+missing module named readline - imported by cmd, pdb, D:\fengru\keyboard\learning\calculator.py
+missing module named 'org.python' - imported by copy, D:\fengru\keyboard\learning\calculator.py
+missing module named fcntl - imported by tempfile, subprocess, D:\fengru\keyboard\learning\calculator.py
+missing module named 'PyQt5.QtWidgets' - imported by D:\fengru\keyboard\learning\calculator.py
+missing module named PyQt5 - imported by D:\fengru\keyboard\learning\calculator.py
